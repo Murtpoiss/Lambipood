@@ -22,7 +22,7 @@ define('DB_NAME', 'np10580_lamp');
 define('DB_USER', 'np10580_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Tryntzyk1');
+define('DB_PASSWORD', '********');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
